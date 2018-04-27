@@ -1,6 +1,6 @@
 package hellowworldmvc.model;
 
-public class Model implements IModel {
+public class Model  {
 	public String getHelloWorld() {
 		return null;
 	}
